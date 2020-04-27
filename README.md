@@ -8,3 +8,7 @@ Now, whenever I run my application, the first request gets completed successfull
 I would deeply appreciate if anybody can help me out with this ...
 
 PS: I tried WebClient class, HTTPClient class also but no success.
+
+Please find the same query posted on StackOverflow forum for any further details:
+
+https://stackoverflow.com/questions/61440657/httpwebresponse-with-multiple-url-causes-error
